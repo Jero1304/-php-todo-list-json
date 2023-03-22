@@ -1,0 +1,22 @@
+[
+    {
+        "task":"Spesa",
+        "done": true
+    },
+    {
+        "task":"Palestra",
+        "done": true
+    },
+    {
+        "task":"Bolletta",
+        "done": false
+    },
+    {
+        "task":"Chiamare idraulico",
+        "done": false
+    },
+    {
+        "task":"Trovare la nonna",
+        "done": true
+    }
+]
